@@ -1,0 +1,52 @@
+[
+    {
+        "role": "user",
+        "content": "What is gravity?",
+        "time": "2026-01-30T01:00:32.613992"
+    },
+    {
+        "role": "assistant",
+        "content": "Let's explore this step by step. What do you already know about this topic, and which part feels most unclear to you?",
+        "time": "2026-01-30T01:00:33.996873"
+    },
+    {
+        "role": "user",
+        "content": "What is inertia?",
+        "time": "2026-01-30T01:01:18.947059"
+    },
+    {
+        "role": "assistant",
+        "content": "Let's explore this step by step. What do you already know about this topic, and which part feels most unclear to you?",
+        "time": "2026-01-30T01:01:20.174976"
+    },
+    {
+        "role": "user",
+        "content": "What is gravity?",
+        "time": "2026-01-30T20:23:54.335182"
+    },
+    {
+        "role": "assistant",
+        "content": "Let's explore this step by step. What do you already know about this topic, and which part feels most unclear to you?",
+        "time": "2026-01-30T20:23:55.735659"
+    },
+    {
+        "role": "user",
+        "content": "What is 1+1?",
+        "time": "2026-01-30T20:24:08.980745"
+    },
+    {
+        "role": "assistant",
+        "content": "Let's explore this step by step. What do you already know about this topic, and which part feels most unclear to you?",
+        "time": "2026-01-30T20:24:10.260349"
+    },
+    {
+        "role": "user",
+        "content": "What is gravity?",
+        "time": "2026-02-01T20:21:28.028160"
+    },
+    {
+        "role": "assistant",
+        "content": "Let's think this through together. What do you already know about this topic, and which part feels confusing to you?",
+        "time": "2026-02-01T20:21:29.684868"
+    }
+]
