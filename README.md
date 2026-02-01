@@ -190,6 +190,7 @@ Possible future improvements include:
 **End of Report**
 
 **Midterm :**
+
 **Key Features**
 **Persistent Storage:** Saves chat logs locally to chat_history.json for long-term tracking.
 
